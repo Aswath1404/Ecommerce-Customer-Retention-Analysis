@@ -6,7 +6,7 @@
 This project focuses on segmenting customers based on purchasing behavior (RFM Analysis) to shift the company's focus from aggressive acquisition to retention.
 
 ## 🖼️ Dashboard
-![Dashboard Preview](Dashboard_Overview.png)
+![Dashboard Preview]([Dashboard_Opngverview.](https://github.com/Aswath1404/Ecommerce-Customer-Retention-Analysis/blob/main/Dashboard%20overview.png?raw=true))
 
 ## 💡 Key Business Insights
 *   **Retention Crisis:** 96% of the customer base consists of "One-Time Wonders" (customers who bought once and never returned).
